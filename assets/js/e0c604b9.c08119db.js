@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[4448],{9328:t=>{t.exports=JSON.parse('{"title":"Mining UTG","slug":"/category/mining-utg","permalink":"/category/mining-utg","navigation":{"previous":{"title":"Becoming a UTG miner","permalink":"/"},"next":{"title":"Get started","permalink":"/Mining UltronGlow/Get started"}}}')}}]);
