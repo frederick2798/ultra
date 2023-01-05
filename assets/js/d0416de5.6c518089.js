@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[4024],{4920:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/ultra/blog/tags/hello","allTagsPath":"/ultra/blog/tags","count":2}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[7412],{8319:l=>{l.exports=JSON.parse('{"permalink":"/ultra/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

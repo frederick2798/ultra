@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[1073],{8960:l=>{l.exports=JSON.parse('{"label":"facebook","permalink":"/ultra/blog/tags/facebook","allTagsPath":"/ultra/blog/tags","count":1}')}}]);

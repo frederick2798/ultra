@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[6932],{7878:l=>{l.exports=JSON.parse('{"label":"docusaurus","permalink":"/ultra/blog/tags/docusaurus","allTagsPath":"/ultra/blog/tags","count":4}')}}]);
