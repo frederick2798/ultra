@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkultronglow=self.webpackChunkultronglow||[]).push([[5022],{1094:o=>{o.exports=JSON.parse('{"title":"More Information","slug":"/category/more-information","permalink":"/category/more-information","navigation":{"previous":{"title":"Contact us","permalink":"/troubleshooting/contact-us"},"next":{"title":"FAQ","permalink":"/more-information/faq"}}}')}}]);
